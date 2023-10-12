@@ -1,0 +1,2 @@
+1-When logging in with the student, the trainer must enter the programs before the student can see the programs. If the trainer does not enter the programs, it will give an error.
+2-When entering date in the OwnerWindow class, put a comma between the numbers. Otherwise the code will not work. At the same time, enter the inputs according to their types.
